@@ -7,4 +7,4 @@ Input ideeën:
 
 Output ideeën:
 - Lijnen die een willekeurige route/richting aannemen 
-- Gevarieerd in kleur?
+- Geometrie
