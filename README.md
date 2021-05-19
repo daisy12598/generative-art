@@ -11,9 +11,9 @@ Voor het vak Generative Art kregen we de opdracht om middels P5 een kunstwerk te
 
 ### Week 2:
 
-Ik moet eerlijk zeggen dat ik in de 2e week niet zo goed wist wat ik moest doen. Ik vind code erg lastig om te maken en ik wist niet waar en hoe ik moest beginnen. Ik zag tijdens de les dat een aantal klasgenootjes, die nog nooit hadden gecodeerd, best snel dingetjes oppakte. Ik heb toen aan hen gevraagd hoe zij bepaalde dingen aanpakken. Ik kreeg toen het advies om veel tutorials te kijken en dingen op te zoeken die bij je project passen.
+Ik moet eerlijk zeggen dat ik in de 2e week niet zo goed wist wat ik moest doen. Ik vind code erg lastig om te maken en ik wist niet waar en hoe ik moest beginnen. Ik zag tijdens de les dat een aantal klasgenootjes, die nog nooit hadden gecodeerd, best snel dingetjes oppakte. Ik heb toen aan hen gevraagd hoe zij bepaalde dingen aanpakken. Ik kreeg het advies om veel tutorials te kijken en dingen op te zoeken die bij je project passen.
 
-In de eerste week heb ik dus vooral naar tutorials gekeken. Ik heb daar veel tijd in geinvesteerd, maar merkte dat het niet heel nuttig was. Ik leerde wel veel dingetjes over P5, maar kwam niet verder met mijn eigen project omdat dat niet in de filmpjes werd behandeld (logisch ook natuurlijk).
+In de tweede week heb ik dus vooral naar tutorials gekeken. Ik heb daar veel tijd in geinvesteerd, maar merkte dat het niet heel nuttig was. Ik leerde wel veel dingetjes over P5, maar kwam niet verder met mijn eigen project omdat dat niet in de filmpjes werd behandeld (logisch ook natuurlijk).
 
 
 ### Week 3:
@@ -22,7 +22,7 @@ In week 3 liep ik heel erg vast: ik keek veel tutorials, maar werd er niet heel 
 
 #### Wat heb ik gemaakt? 
 
-Ik heb de bouncing ball tutorial en de rotation tutorial gekeken en de 2 codes met elkaar gecombineerd om zo roterende lijnen te krijgen die, net zoals de bouncing ball, door het canvas heen bewegen. Bouncing ball: https://www.youtube.com/watch?v=xBMptuTM31k, rotation: https://www.youtube.com/watch?v=o9sgjuh-CBM. Door random functie toe te voegen werd er elke keer een ander pad afgelegd op het moment dat ik op de pagina refresh klikte.
+Ik heb de bouncing ball en de rotation tutorial gekeken en de 2 codes met elkaar gecombineerd om zo roterende lijnen te krijgen die, net zoals de bouncing ball, door het canvas heen bewegen. Bouncing ball: https://www.youtube.com/watch?v=xBMptuTM31k, rotation: https://www.youtube.com/watch?v=o9sgjuh-CBM. Door random functie toe te voegen werd er elke keer een ander pad afgelegd op het moment dat ik op de pagina refresh klikte.
 
 #### Feedback Danny:
 
@@ -53,7 +53,7 @@ Mijn aangepaste eisen voor mijn artwork:
 #### Feedback Danny: 
 
 - Opacity toevoegen aan de lijnen zodat het werk niet te chaotisch wordt. Dit kan d.m.v. een time out
-- Kleuren van de lijnen per muziekje aanpassen. Dit kan d.m.v. een if else + counter
+- Elk muziekje een bepaalde kleur geven (1 t/m 6). Dit kan d.m.v. een if else + counter
 - Je kan de code voor het schudden online testen ipv via brackets op je eigen computer
 
 ### Laatste lootjes:
@@ -62,6 +62,17 @@ Mijn aangepaste eisen voor mijn artwork:
 - Ook de time out vond ik persoonlijk erg ingewikkeld. Ook hier kwam ik helaas niet meer op tijd voor de beoordeling uit :/ Om de lijnen toch een opacity mee te geven heb ik de kleur code aangepast
 - Ik heb de snelheid van de lijnen nog iets aangepast om het contrast goed te kunnen zien per kunstwerk (zo zie je per keypress iets meer variatie en verschil)
 - Ik vond het een leuk idee om de lijnen voor ieder muziekje een eigen kleur te geven (feedback Danny). Echter had ik 'randomness' als eis in mijn concept staan omdat ik de onvoorspelbaarheid tof vind. Daarom heb ik gekozen om de kleuren random in beeld te laten brengen en per keypress te laten veranderen. Hierdoor is geen enkel artwork hetzelfde. (color = [random(255), random(255), random(255)])
+
+### Het resultaat
+
+Ik ben erg blij met het resultaat! Het voldoet aan bijna al mijn eisen die ik vooraf had opgesteld:
+
+- De gebruiker levert input d.m.v. een keypress. Het schudden op mobile device is helaas niet gelukt. Echter is de artwork wel responsive ;)
+- Er worden geometrische lijnen gegenereerd die verschillen in snelheid, afstand van de lijnen (veel dunne lijnen naast elkaar of breed uit elkaar) en kleur
+- Er wordt techno muziek afgespeeld in een loop en veranderd wanneer de gebruiker een keypress doet
+- Er is een techno vibe gecreeerd: donkere achtegrond en gekleurde lijnen/ lazer beams 
+- Het kunstwerk is speels en onvoorspelbaar door de random functies
+- Elk kunstwerk is uniek!
 
   
   
