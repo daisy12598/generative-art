@@ -46,7 +46,7 @@ Mijn aangepaste eisen voor mijn artwork:
 
 #### Wat heb ik gedaan?
 
-- Onderzoek gedaan naar P5 Sound. Deze werkte eerst niet. Na lang zoeken zag ik dat ik de library niet had van P5 Sound en dat deze daarom niet werkte. Ik heb toen p5.min.js en p5.sound.min aangemaakt in mijn mapje van code waardoor het wel werkte met een preload.
+- Onderzoek gedaan naar P5 Sound. Deze werkte eerst niet. Na lang zoeken (google / https://p5js.org/) zag ik dat ik de library niet had van P5 Sound en dat deze daarom niet werkte. Ik heb toen p5.min.js en p5.sound.min aangemaakt in mijn mapje van code waardoor het wel werkte met een preload.
 - Keypressed voor desktop gemaakt waarbij de cordinaten veranderen (generateCoordinates()) en de muziekjes veranderen (changeSong())
 - Een poging gedaan tot input maken voor mobile device. Het is me gelukt om d.m.v. height: 100vh en width: 100vw het canvas responsive te maken. Echter kon ik de code voor het schudden niet testen op mijn telefoon. Ik kreeg telkens een foutmelding dat de preview link niet geldig was. 
 
