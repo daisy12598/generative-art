@@ -20,11 +20,11 @@ In de eerste week heb ik dus vooral naar tutorials gekeken. Ik heb daar veel tij
 
 In week 3 liep ik heel erg vast: ik keek veel tutorials, maar werd er niet heel veel wijzer op m.b.t. mijn project. Ik kreeg het advies om minder tutorials te kijken en mij meer te focussen op dingen maken. Daarbij moest ik dan wel eerst terug naar de teken tafel om uitschrijven (in detail) wat je art moet gaan doen (zie week 4).
 
-# Wat heb ik gemaakt? 
+Wat heb ik gemaakt? 
 
 Ik heb de bouncing ball tutorial en de rotation tutorial gekeken en de 2 codes met elkaar gecombineerd om zo roterende lijnen te krijgen die, net zoals de bouncing ball, door het canvas heen bewegen. Bouncing ball: https://www.youtube.com/watch?v=xBMptuTM31k, rotation: https://www.youtube.com/watch?v=o9sgjuh-CBM. Door random functie toe te voegen werd er elke keer een ander pad afgelegd op het moment dat ik op de pagina refresh klikte.
 
-# Feedback Danny:
+Feedback Danny:
 
 - Kijken naar een interessante input: Nu is de input refreshen. Er zijn veel meer interessante manieren om input van de gebruiker te krijgen. Denk aan mobile device input.
 - Wat moet het artwork doen? Het genereerd nu niets zeggende lijen. Wat gaat er veranderen als de gebruiker input geeft? De kleur? De vorm? etc.
@@ -33,7 +33,7 @@ Ik heb de bouncing ball tutorial en de rotation tutorial gekeken en de 2 codes m
 
 ## Week 4 (meivakantie):
 
-# Mijn aangepaste eisen voor mijn artwork:
+Mijn aangepaste eisen voor mijn artwork:
 
 - Geometrische vormen/lijnen: Ik wil dat de computer lijnen genereerd die geometrische vormen creeren. De lijnen moeten elkaar kruisen. Hierbij moet ik kijken naar een random functie en kijken hoe ik een de lijnen een traject kan laten volgen. Om de lijnen te laten draaien moet ik rotaties toevoegen.
 - Donkere achtergrond en felle kleuren (contrast): De achtergrond moet zwart worden en de lijnen moeten per keer een andere kleur krijgen. Dit moet ook random gegenereerd worden zodat geen enkel kunstwerk hetzelfde is.
@@ -44,13 +44,13 @@ Ik heb de bouncing ball tutorial en de rotation tutorial gekeken en de 2 codes m
 
 ## Week 5:
 
-#Wat heb ik gedaan?
+Wat heb ik gedaan?
 
 - Onderzoek gedaan naar P5 Sound. Deze werkte eerst niet. Na lang zoeken zag ik dat ik de Library niet had van P5 Sound en dat deze daarom niet werkte. Ik heb toen p5.min.js en p5.sound.min aangemaakt in mijn mapje van code waardoor het wel werkte met een preload.
 - Keypressed voor desktop gemaakt waarbij de cordinaten veranderen (generateCoordinates()) en de muziekjes veranderen (changeSong())
 - Een poging gedaan tot input maken voor mobile device. Het is me gelukt om d.m.v. height: 100vh en width: 100vw het canvas responsive te maken. Echter kon ik de code voor het schudden niet testen op mijn telefoon. Ik kreeg telkens een foutmelding dat de preview link niet geldig was. 
 
-# Feedback Danny: 
+Feedback Danny: 
 
 - Opacity toevoegen aan de lijnen zodat het werk niet te chaotisch wordt. Dit kan d.m.v. een time out
 - Kleuren van de lijnen per muziekje aanpassen. Dit kan d.m.v. een if else + counter
