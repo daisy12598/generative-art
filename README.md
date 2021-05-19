@@ -2,7 +2,7 @@
 
 ### Het concept:
 
-Voor het vak Generative Art kregen we de opdracht om middels P5 een kunstwerk te maken dat door de computer gegenereerd wordt. Dit kunstwerk moest bij jou passen. Mijn invalshoek: Techno muziek en techno festivals. Op techno festivals wordt er vaak gebruik gemaakt van vette lazers en schermen met (trippy) visuals. Het leek me een passend en tof idee om zo'n trippy artwork te maken voor op die schermen (later in het preces leek me dit ook vet om op mobile device te krijgen). Mijn eisen voor mijn artwork in week 1:
+Voor het vak Generative Art kregen we de opdracht om middels P5 een kunstwerk te maken dat door de computer gegenereerd wordt. Dit kunstwerk moest bij jou passen. Afgelopen jaren (op 2020 na helaas..) heb ik veel techno festivalletjes gezien. Het is tegenwoordig voor mijn vrienden kenmerkend aan mij geworden. Ze noemen mij ook wel (naast 'krullenbol') 'kleine technovlinder'. Daarom heb ik als invalshoek techno muziek op techno festivals gekozen. Op dit soort techno festivals wordt vaak gebruik gemaakt van vette lazers en schermen met (trippy) visuals. Het leek me een passend en tof idee om zo'n trippy artwork te maken voor die schermen (later in het preces leek me dit ook vet om op mobile device te krijgen). Mijn eisen voor mijn artwork in week 1:
 
 - Geometrische vormen/lijnen: Ik wil dat de computer lijnen/ geometrische vormen genereerd. De lijnen moeten elkaar kruisen. Dit is passend bij 'technovibes' omdat deze fel gekleurde lijnen mij doen denken aan felle lazer beams
 - Donkere achtergrond en felle kleuren (contrast): Dit is erg kenmerkend voor techno. Het is duister en het contrast met de felle kleuren en lazers is groot
