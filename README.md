@@ -56,7 +56,7 @@ Mijn aangepaste eisen voor mijn artwork:
 - Kleuren van de lijnen per muziekje aanpassen. Dit kan d.m.v. een if else + counter
 - Je kan de code voor het schudden online testen ipv via brackets op je eigen computer
 
-### Laatste loodjes:
+### Laatste lootjes:
 
 - Ik heb nog geprobeerd om de schud code online / in het browser te testen en werkend te maken. Hier kwam ik helaas niet uit. Ik heb in de code voor een responsive design erin gehouden. Dit stukje code was geen 'must' maar had me wel vet geleken om toe te voegen aan mijn artwork.
 - Ook de time out vond ik persoonlijk erg ingewikkeld. Ook hier kwam ik helaas niet meer op tijd voor de beoordeling uit :/ Om de lijnen toch een opacity mee te geven heb ik de kleur code aangepast
